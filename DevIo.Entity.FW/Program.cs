@@ -6,6 +6,7 @@ namespace DevIo.Entity.FW
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testes");
             Console.WriteLine("Hello World!");
         }
     }
